@@ -8,12 +8,12 @@ import {Wine} from "../data/wine";
 function Inicio(){
 return(
 <div> 
-    <div>
-    <h1>Welcome to Wine experiencia</h1>
-    <p>I am just an wine enthusiast</p> 
-    <h2>You can see every wine that open every week and my future boghts.  </h2>
+    <div className="about">
+    <h1>Welcome to the wine experiencia 🍷</h1>
+    <p>I am just a wine enthusiast.</p> 
+    <h2>You can see every wine that I open every week and my future purchases.</h2>
     </div>
-<section className='Articulolist'>
+<section className='Winelist'>
     {Wines.map((Inicio,index) => (
     <Wine 
     key={Inicio.id} 

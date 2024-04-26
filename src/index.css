@@ -1,6 +1,6 @@
 body {
   margin: 0;
- background-color: rgb(182, 18, 18);
+ background-color: rgb(7, 7, 7);
 }
 
 code {
@@ -8,32 +8,58 @@ code {
     monospace;
 }
 
-.Articulolist {
+.Winelist {
   width: 90vw;
   max-width: 1170px;
   margin: 5rem auto;
   display: grid;
   gap: 2rem;
+  font-family: "Fjalla One", sans-serif;
 }
 @media screen and (min-width: 768px) {
-  .Articulolist {
+  .Winelist {
     grid-template-columns: repeat(3, 1fr);
     /* align-items: start; */
   }
 }
 
-.Articulo{
+.wine{
 
-  background:#fff;
+  background:#2b2c2c;
   border-radius: 1rem;
   padding: 1rem 2rem;
+  color: aliceblue;
 }
 
-.Articulo h1{
+.wine h1{
   margin-top: 0.5rem;
 }
 
 
-.Articulo p{
+.wine p{
   margin-top: 0.5rem;
+} 
+
+
+.about{
+
+text-align: center; 
+color: rgb(243, 241, 241);
+font-family:"Caveat", cursive;
+font-weight: 400;
+font-style: normal;
+
 }
+
+.derechos-de-autor{
+
+  font-size: 15px;
+  color: #a1a1a1;
+  padding: 20px;
+  text-align: center;
+  font-family:"Caveat", cursive;
+   }
+
+
+  
+     
