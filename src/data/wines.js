@@ -11,14 +11,14 @@ export const Wines = [
         id: '2',
         img: 'https://www.lojacoral.pt/wp-content/uploads/2022/04/Alves-Vieira-Tinto.png',
         Title: 'Alves Vieira Tinto', 
-        Description:'One of my favorite wines. I drank two bottles on my birthday with my friends. The taste is neither sweet nor bitter. It is just right, and it leaves you very thirsty at the end. The price is 16 euros, so it is a great wine',
+        Description:'One of my favorite wines. I drank two bottles on my birthday with my friends. The taste is neither sweet nor bitter.',
         Rate: 'Rate:10/10 '
       },
       {
         id: '3',
         img: 'https://www.bodeboca.pt/sites/default/files/styles/mainbottle_normal/public/wines/2021-03/bot-mucho-mas-tinto-nueva.jpg?itok=CCvLgspM',
         Title: 'Mucho más tinto', 
-        Description:'Spanish wine, not much to say, nothing new, just average for the price of 7 euros.',
+        Description:'Spanish wine',
         Rate: 'Rate:5/10 '
       },
    
@@ -26,7 +26,7 @@ export const Wines = [
         id: '4',
         img: 'https://quintadapacheca.com/cdn/shop/products/pacheca_terroir_tinto_f0e85b22-e391-4183-9a4d-d6dfd7a5c4cd_720x.png?v=1594160642',
         Title: 'Pacheca Douro tinto', 
-        Description:'Pacheca is great, Douro is much stronger, you have to drink it slowly. Price is 10 euros.',
+        Description:'Pacheca is great, Douro is much stronger, you have to drink it slowly.',
         Rate: 'Rate:7/10'
       },
    
