@@ -1,19 +1,18 @@
 
+
 *{
   margin: 0;
   padding: 0;
+
   
   }
-
-
-
-
 
 body {
   margin: 0;
   padding: 0;
- background-color:rgb(7, 7, 7);
- color: #2b2c2c;
+  background-color:rgb(7, 7, 7);
+  color: #c4c4c4;
+
 }
 
 code {
@@ -22,7 +21,7 @@ code {
 }
 
 .Winelist {
-  width: 90vw;
+  width: 80vw;
   max-width: 1170px;
   margin: 5rem auto;
   display: grid;
@@ -38,10 +37,10 @@ code {
 
 .wine{
 
-  background:#2b2c2c;
+  background:#272525;
   border-radius: 1rem;
   padding: 1rem 2rem;
-  color: rgb(221, 225, 230);
+  color: rgb(173, 177, 184);
 }
 
 .wine h1{
@@ -57,7 +56,7 @@ code {
 .about{
 
 text-align: center; 
-color: rgb(243, 241, 241);
+color: rgb(19, 17, 17);
 font-family:"Caveat", cursive;
 font-weight: 400;
 font-style: normal;
@@ -67,7 +66,7 @@ font-style: normal;
 .derechos-de-autor{
 
   font-size: 15px;
-  color: #a1a1a1;
+  color: #333232;
   padding: 20px;
   text-align: center;
   font-family:"Caveat", cursive;

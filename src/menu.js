@@ -22,8 +22,11 @@ function Menu() {
         <div className="collapse navbar-collapse" id="navbar-toggler">
           <ul className="navbar-nav d-flex justify-content-center align-items-center">
             <li className="nav-item"> {/* Cambié <nav> a <li> */}
-              <Link to="/drink" className="nav-link">Botellas</Link>
+              <Link to="/" className="nav-link">Botellas</Link>
             </li>
+            <li className="nav-item">
+              <Link to="/sobre" className="nav-link">Deseos</Link>
+            </li> 
             <li className="nav-item">
               <Link to="/sobre" className="nav-link">Sobre</Link>
             </li>
