@@ -10,8 +10,8 @@
 body {
   margin: 0;
   padding: 0;
-  background-color:rgb(7, 7, 7);
-  color: #c4c4c4;
+  background-color:rgb(245, 244, 244);
+  color: #cfc7c7;
 
 }
 
@@ -74,4 +74,23 @@ font-style: normal;
 
 
   
-     
+  /* Fotografia */
+  /* En tu archivo CSS */
+.coolImage {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.coolImage:hover {
+  transform: scale(1.1) rotate(3deg); /* Efecto de agrandamiento y ligera rotación */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Aumenta la sombra al hacer hover */
+}
+
+
+
+
+/* En tu archivo CSS */
+/* En tu archivo CSS */
+h2 {
+  color: #0c3105; /* Verde menta */
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+}

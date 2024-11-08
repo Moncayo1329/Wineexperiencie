@@ -1,8 +1,15 @@
 import React from "react"; 
+import { Menu } from "../menu";
+import { Footer } from "../footer";
+
 
 function Future(){
 return(
-<div></div>
+<div> 
+    <Menu />
+
+    <Footer />
+</div>
 
 )
 
@@ -11,4 +18,4 @@ return(
 
 
 
-export{Future}
+export{Future};

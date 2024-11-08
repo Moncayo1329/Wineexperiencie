@@ -9,7 +9,7 @@ function Inicio(){
 return(
 <div> 
     <div className="about">
-    <h1>Welcome to the wine experience 🍷</h1>
+    <h1>Bievenidos al Vinito 🍷</h1>
     <p>I am just a wine enthusiast.</p> 
     <h2>You can see every wine that I open every week and my future purchases.</h2>
     </div>

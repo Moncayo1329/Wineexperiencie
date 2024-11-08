@@ -18,8 +18,8 @@ export const Wines = [
         id: '3',
         img: 'https://www.bodeboca.pt/sites/default/files/styles/mainbottle_normal/public/wines/2021-03/bot-mucho-mas-tinto-nueva.jpg?itok=CCvLgspM',
         Title: 'Mucho más tinto', 
-        Description:'Spanish wine',
-        Rate: 'Rate:5/10 '
+        Description:'El sabor y el precio hace justicia',
+        Rate: 'Rate:4/5 '
       },
    
       {

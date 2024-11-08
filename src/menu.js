@@ -25,7 +25,7 @@ function Menu() {
               <Link to="/" className="nav-link">Botellas</Link>
             </li>
             <li className="nav-item">
-              <Link to="/sobre" className="nav-link">Deseos</Link>
+              <Link to="/Deseos" className="nav-link">Deseos</Link>
             </li> 
             <li className="nav-item">
               <Link to="/sobre" className="nav-link">Sobre</Link>
